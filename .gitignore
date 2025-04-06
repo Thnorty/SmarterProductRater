@@ -1,9 +1,8 @@
-start-dfs.bat
-Youtube-Spam-Dataset.csv
 datas/
 is_spam_models/
 output_graphs/
+.venv/
+start-dfs.bat
+Youtube-Spam-Dataset.csv
 BIL 401 Status Report.docx
 BIL_401_Project_Final_Report.pdf
-report.tex
-.venv/
